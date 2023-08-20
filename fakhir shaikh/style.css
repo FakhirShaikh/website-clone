@@ -1,0 +1,53 @@
+
+.navbar{
+    background-color:rgb(226, 252, 252)!important;
+}
+.navbar-brand img{
+    max-width: 50% !important;
+    min-width:40px !important;
+    max-height: 100% !important;
+    min-height: 10px !important; 
+}
+.carousel-item img{
+    max-width: 30px !important;
+    min-width:100% !important;
+    max-height: 400px !important;
+    min-height: 30% !important; 
+}
+.change{
+    max-width: 10px !important;
+    min-width:90% !important;
+    max-height: 100% !important;
+    min-height: 50px !important; 
+    margin: auto !important;
+}
+.card{
+    margin: auto !important;
+       
+}
+.card img{
+    width: 100% !important;
+    height: 120px !important;
+}
+.review img{
+    max-width: 10px !important;
+    min-width:40% !important;
+    max-height: 40% !important;
+    min-height: 50px !important; 
+    margin: 20% !important;
+}
+.review-img{
+    border: 1px solid !important ;
+    border-radius: 50% !important;
+    background-color: rgb(226, 252, 252) !important;
+    
+}
+footer{
+    background-color:rgb(226, 252, 252) !important;
+    height: 40px !important;
+}
+footer h3{
+    margin-left: 40% !important;
+    padding-top: 1% !important;
+    font-size: 20px;
+}
